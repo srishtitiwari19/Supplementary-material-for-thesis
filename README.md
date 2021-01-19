@@ -1,5 +1,5 @@
 # Supplementary-material-for-thesis
-This repository contains the lengthy results of my thesis.
+This repository contains the lengthy crucial results of my doctoral work.
 
   **FreqEvolOfEccentricity.txt** : The 3PN-accurate expression for frequency evolution of orbital eccentricity, et that is accurate to next-next-to-leading-order or fifth order in initial    eccentricity, e0 i.e. O(e0^5).
 
